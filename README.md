@@ -1,7 +1,7 @@
 # Patterns-for-Improvisation
 Created for my Spring 2020 Music Technology transfer portfolio, this is an ever-evolving (and soon to be more interactive) texture of synths.
 
-To use this program, first download SuperCollider (you can find it at supercollider.github.io), then download patterns for improvisation.scd and run it. Follow the instructions at the top of the file. They are pasted here, too for convenience: 
+To run the program, first download SuperCollider (you can find it at supercollider.github.io), then download patterns for improvisation.scd and run it. Follow the instructions at the top of the file. They are pasted here, too for convenience: 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
