@@ -237,12 +237,6 @@ s.waitForBoot({
 
 	s.sync;
 
-	~reverb.play;
-	~compression.play;
-	~expansion.play;
-
-	s.sync;
-
 	// GUI Button setup
 	~function = {
 		// chooses a "thickness" of the sin texture.
